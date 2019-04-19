@@ -8,7 +8,4 @@
   * [3.2 filebeat](install/filebeat.md)
   * [3.3 logstash](install/logstash.md)
   * [3.4 elasticsearch](install/elasticsearch.md)
-  * [3.4 kibana](install/kibana.md)
-* [4. 监控](adaelk/monitor)
-* [6. 翻译官方文档](adaelk/doc/filebeats.md)
-* [7. 报错总结](adaelk/7.md)
+  * [3.5 kibana](install/kibana.md)
